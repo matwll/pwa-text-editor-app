@@ -41,7 +41,7 @@ In the top left of the application there is an install button. Simple click that
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To use this application go to the link here (<a href="">PWA Text Editor App</a>). You can type in it as with any text editor.
+To use this application go to the link here (<a href="https://whispering-fortress-13869.herokuapp.com/">PWA Text Editor App</a>). You can type in it as with any text editor.
 
 <!-- CONTRIBUTORING -->
 ## Contributing
